@@ -1,0 +1,347 @@
+=== PDF Activity – All Parts ===
+
+Part 1: pip install transformers torch  [DONE]
+
+=== Part 2: Basic Generation ===
+In the future, artificial intelligence will be able to work with human beings in more ways than just to figure out how to create a better world. The technology is already in use in cities, and its use is already being made more widespread.
+
+This means that artificial intelligence will have a huge impact on the way we talk about our actions, our decisions, and our lives. It means that we can become more aware of what we are doing, and we can learn from what we do better. It means that we will be more aware of what we are doing.
+
+If artificial intelligence were able to help us, we could make decisions that are easier to make, and that are better for our health and well-being. This is what we can do. If we can be smarter and more comfortable with our actions, we can make better decisions.
+
+This may sound counterintuitive, but it is what we can do.
+
+This is what we can do with the new tools that are being developed at our disposal.
+
+You can download this tutorial as a PDF by typing in a zip code below.
+
+This tutorial is available in PDF format, but if you do not have a hard drive to save, you can download this tutorial as a PDF by typing in a zip code below
+
+=== Part 3: Controlled Generation ===
+Sample 1:
+Education in the digital age requires an education in what can be learned by using digital technologies. By teaching digital skills in the classroom and in the home, we are teaching the value of creating and sustaining an environment of digital communities, digital culture, and digital identity.
+
+Digital technology can be used in many different ways. As we move forward and become more digital in our lives, we will be learning a lot more about how to learn about and use technology, the best of both worlds.
+
+This article was originally published in the New York Times on May 10, 2017 and has been republished here with permission.
+
+Sample 2:
+Education in the digital age requires a lot of thought and careful consideration, which leads to a lot of unnecessary mistakes. The Internet has become an amazing tool to help us learn, build, and communicate. We need to be better educated, smarter, and more effective when it comes to making these choices.
+
+The Internet's ability to create a more efficient way for businesses to deliver their products, services, and content is very important. Unfortunately, there's too much focus on "just delivering" and "creating new business models" for the online world to be an effective way for businesses to improve their business. There is too much focus on "just making their customers better," and that's a very bad way to build a business.
+
+The Internet's ability to create a more efficient way for businesses to deliver their products, services, and content is very important. Unfortunately, there's too much focus on "just making their customers better," and that's a very bad way to build a business. The "social media ecosystem" is a huge problem for consumers in today's digital world. It's so big that it requires an enormous amount of time, energy, and time and effort to create an effective social media account. The Internet is not the best place for that.
+
+The "social
+
+Sample 3:
+Education in the digital age requires an education in the arts, technology, and communication.
+
+In addition, digital literacy is a key skill, and its continued adoption by the general public is an important milestone in increasing access to digital education for all. This means that if we don't have the skills and knowledge to make digital literacy work, then we are doomed.
+
+Our digital literacy efforts rely on a great deal of community involvement, education, and networking.
+
+The most successful digital literacy efforts have been in New York and Austin, Texas, where digital literacy has a strong presence. These three states have made great strides in digital literacy.
+
+We will continue to support the efforts of other local and state leaders, both online and through other forms of public outreach.
+
+We are grateful to the local and state governments for their commitment to this important goal.
+
+
+=== Part 4: Model Comparison ===
+gpt2:
+Climate change is one of the most critical issues because it has the potential to affect the ecosystems in the world," said Dr. Nils Schmidt, an expert on climate change at the University of California, Berkeley, and co-author on the new study. "It is an urgent problem and we are working to address it."
+
+The study showed that rising ocean temperatures have caused the loss of about $1 trillion of species, causing a loss of around $11,000 billion in ecosystems. The damage, they wrote in the paper, could be irreversible, though many of those species could be found extinct by 2100. They also estimated that the planet could become uninhabitable by 2050.
+
+The team's findings will be published in the journal Science on Oct. 31.
+
+This article was written by Marcia Fazio, a doctoral student at the University of California, Berkeley, and was originally published on Live Science.
+
+distilgpt2:
+Climate change is one of the most critical issues because it is a global issue. When we talk about global warming, it is about what happens when our climate system is too cold. So we need to look at climate change in terms of how we respond to the changes in global temperatures and changes in the climate system.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=== Part 5: Creative Texts ===
+1. Success comes when you...
+
+Continue reading
+2. Breaking News: Artificial Intelligence has...
+
+Best: #1 – realistic & motivational
+
+=== Part 6: Prompt Sensitivity ===
+
+Prompt: Write a poem about artificial intelligence.
+Write a poem about artificial intelligence.
+
+For a start, you'll need to create a folder called "Programs." This folder contains all your scripts. For this tutorial, I'm assuming you're familiar with Python 2 or 3.
+
+This folder contains a single script called "python-test.py" that you can run to check if your program is running correctly or not.
+
+The script looks something like this:
+
+import sys import os import os.path import test import sys import os.path.join( './bin/python-test.py')
+
+The script checks if you have Python 3 installed. If not, it will run the script directly.
+
+Note that you can also run the script in another directory by writing the following lines in the "python-test.py" folder:
+
+python-test.py -r
+
+If you've already written your program, you can run it in any directory by writing the following lines in the "python-test.py" folder:
+
+python-test.py -r
+
+If you've already written your program, you can also run it in other directories by writing the following lines in the "python-test.py" folder:
+
+python-test.py -
+
+Prompt: As a poet, describe how AI transforms human emotions.
+As a poet, describe how AI transforms human emotions.
+
+Image: AP
+
+You're not writing about the future, but how would we like it to be?
+
+I think we need to think of the future as having a sense of what's going on as a group. It's important to have a sense of what's going on as a unitary group. I think it's a good idea to give an example. If we have a sense of what's going on as a unitary group, we can have an idea of how it's going to change. If we have a sense of what's going on as a group, I think that we can have an idea of the future as not being a group of people who are going to suffer pain and suffering, but we can have an idea of what's going on in the world and who are going to suffer pain.
+
+How do you think that could affect your work?
+
+If it would change, I would be more involved in it. If it would change my views of people, I would be more involved in it. I would be thinking about what will happen to the world and how it's going to change.
+
+How do you think that could affect your work?
+
+I think that if you're writing about the
+
+Prompt: Explain the impact of AI in a poetic way.
+Explain the impact of AI in a poetic way. The AI could work in ways you didn't even imagine, like using a language and talking to people. The AI could act as a sort of translator for people, and provide guidance. It could provide insight into how you feel, how you think and how you interact with others. In a way, it's a sort of human-like experience, like being a human.
+
+You're really trying to keep the human element of this as close to the human as possible, whether it's through writing, writing about it, talking to people, doing things with it, making it more human.
+
+I think we've really worked pretty hard to make this experience as human as possible, but I've also been trying to do something that's a little bit more human-like. I'm writing about it, and I'm sort of writing about it with a little bit of a bit of a human side. I'm trying to make it as human as possible. I'm trying to make it as humanly as possible. That's all I want. I know the AI is going to be human, but I'm also trying to make it as humanly as possible.
+
+What are your expectations from the audience?
+
+I think it's going to be
+
+=== Part 6: Summarization ===
+Summary: Artificial Intelligence is transforming education by enabling personalized learning and automated grading. However, ethical and privacy concerns remain significant challenges.
+
+============================================================
+CREATIVE MINI PROJECT – Short Story Generator
+============================================================
+Once upon a time in a futuristic city… The city was a vast wasteland in which the most advanced technology was developed and deployed and the greatest power was not yet realised. For this reason the cities became an industrial wasteland and there was no hope of survival. As this was the time of the technological collapse, all the most advanced machines were destroyed and countless humans were imprisoned in the ruins.
+
+But now the technology was finally realised. There are people like Mr. Robot and the two robots now on the surface of the Moon! Mr. Robot is a real person and not just a robot that came from the future! It was a team of scientists who discovered that we could create something new and the ultimate victory was never a matter of luck but of a determined and determined effort.
+
+It's a team of guys who have worked hard in the past and who are able to finally come together to find this future and create something that will take care of the Earth in the future!
+
+The world in the present is full of great technological achievements… but it will take time to achieve all those things. With a simple little twist of fate, Mr. Robot could finally bring mankind to a time of peace, prosperity and security!
+
+This film is a sequel to Mr. Robot, the first ever feature length video
+
+ALL PDF PARTS COMPLETED SUCCESSFULLY!
